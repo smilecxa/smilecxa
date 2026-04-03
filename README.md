@@ -1,5 +1,11 @@
 ## Hi there 👋
+で多数のタッチセンサを構成し、触った手がどのように動いているかなどを送信する。
 
+<p align="center">
+  <a href=" ">
+    < img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
+  </a >
+</p >
 <!--
 **smilecxa/smilecxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
